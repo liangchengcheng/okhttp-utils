@@ -23,7 +23,12 @@ import java.util.Map;
 
 import mddemo.library.com.okhttp.callback.ResultCallback;
 import mddemo.library.com.okhttp.request.OkHttpRequest;
-
+/**
+ * Author:  梁铖城
+ * Email:   1038127753@qq.com
+ * Date:    2015年11月27日15:13:14
+ * Description: 又找到了封装的   http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
